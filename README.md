@@ -88,6 +88,10 @@ Request Body:
         -no body in request-
 ```
 
+В браузере:
+
+![kube-1-2](images/1.jpg)
+
 ------
 
 ### Задание 2. Создать Service и подключить его к Pod
@@ -162,7 +166,9 @@ Request Headers:
 Request Body:
         -no body in request-
 ```
+Через браузер:
 
+![kube-1-2](images/2.jpg)
 
 ------
 
